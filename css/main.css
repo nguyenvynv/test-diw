@@ -52,7 +52,7 @@ html{
 #home{
 	background: #000;
 	position: relative;
-	height: 100vh;
+	height: auto;
 	color: #fff;
 /*	display: flex;*/
 }
@@ -64,12 +64,12 @@ html{
 }
 .banner-image img{
 	
-	height:100vh;
+/*	height:100vh;*/
 }
 .banner-content{
 	z-index:2;
 	font-family: 'Roboto', sans-serif;
-	height: 100vh;
+/*	height: 100vh;*/
 }
 .banner-content h1{
 	
@@ -134,8 +134,8 @@ html{
 .about-content-bg{
 	position: absolute;
 	background: rgba(255,255,255,0.05);
-	width: 5%;
-	height:27%;
+/*	width: 5%;*/
+	height:50%;
 }
 
 /*service*/
